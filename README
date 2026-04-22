@@ -4,7 +4,7 @@ Desenvolvimento de uma organização e classificação de usuarios ou clientes, 
 
 ## 🚀 Tecnologias utilizadas
 - Java
-- Spring Boot (se estiver usando)
+- Spring Boot
 
 
 ## 🎯 Funcionalidades
@@ -13,10 +13,10 @@ Desenvolvimento de uma organização e classificação de usuarios ou clientes, 
 ❌ Integração com banco de dados (desenvolvimento)
 
 ## 🧠 Aprendizados
-
 #### Esse projeto é desenvolvido com foco em aprendizado de:
 
-Integração com APIs REST
-Manipulação de dados em Java
-Persistência com banco de dados
-Boas práticas de organização de código
+- Integração com APIs REST
+- Manipulação de dados em Java
+- Persistência com banco de dados
+- Boas práticas de organização de código
+
