@@ -1,18 +1,18 @@
-📌 Gerenciamento de usuarios
+<h1>📌 Gerenciamento de usuarios</h1>
 
 Desenvolvimento de uma organização e classificação de usuarios ou clientes, sendo visualizada somente pela parte do nack-end.
 
-🚀 Tecnologias utilizadas
+<h2>🚀 Tecnologias utilizadas</h2>
 Java
 Spring Boot (se estiver usando)
 
 
-🎯 Funcionalidades
+<h2>🎯 Funcionalidades</h2>
 ✅ Cadastro de usuários
 ✅ Consulta de dados via API externa
 ❌ Integração com banco de dados (desenvolvimento)
 
-🧠 Aprendizados
+<h2>🧠 Aprendizados</h2>
 
 Esse projeto é desenvolvido com foco em aprendizado de:
 
