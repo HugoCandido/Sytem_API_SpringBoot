@@ -1,10 +1,10 @@
-package br.edu.infnet.JoseCandidoAPI.modelDomain;
+package br.edu.infnet.JoseCandidoAPI.RoutesConfig;
 
+import br.edu.infnet.JoseCandidoAPI.modelDomain.Aluno;
 import org.springframework.boot.ApplicationArguments;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.stereotype.Component;
 import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 

@@ -2,10 +2,10 @@ package br.edu.infnet.JoseCandidoAPI.modelDomain;
 
 public class Aluno {
 
-    public String nome;
-    public int matricula;
-    public double peso;
-    public boolean ativo;
+    //public String nome; //excluido temporariamente
+    private int matricula;
+    private double peso;
+    private boolean ativo;
 
     @Override
     public String toString() {
